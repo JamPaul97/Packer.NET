@@ -12,7 +12,7 @@ namespace PackerNET
     {
         private Version version = new Version(0, 1, 1, 1);
         /// <summary>
-        /// Progress Event. Will triger when there is change on the Backup/Restore thread
+        /// Progress Event. Will trigger when there is change on the Backup/Restore thread
         /// </summary>
         /// <param name="Current">The current task value</param>
         /// <param name="Maximum">The maximum numbers tasks</param>
