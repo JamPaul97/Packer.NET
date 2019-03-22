@@ -1,6 +1,8 @@
 
 ## Packer.NET
 
+[![Build Status](https://travis-ci.com/JamPaul97/Packer.NET.svg?token=cZnU2BTy84i8uTmU7hP5&branch=master)](https://travis-ci.com/JamPaul97/Packer.NET)
+
 Hi! Thanks for checking out Packer.NET. So what is Packer.NET you may ask? It's a library that will help you pack lots of files inside a single one. It's perfect for making backups of software files or letting user pack data to be sent over the internet in a single file.
 
 ## Downloading
